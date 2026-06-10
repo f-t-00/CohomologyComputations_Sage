@@ -16,4 +16,4 @@ The only non trivial brackets of the Lie algebra are the following:
 
 The Sage programme computes the dimension of the Lie algebra cohomology in degree 2, which is equal to 24.
 
-Since H^2(g) contains at least the 24-dimensional space of Lie algebra cohomology in weight 2 (this follows from the fact that the space of 2-forms of weight 2 is 28=8!/(2!6!) while the image of d_0 from 1-forms of weight 2 is 4-dimensional), this directly implies that the Lie algebra cohomology in degree 2 and weight greater than 2 must be 0.
+Since H^2(g) contains at least the 24-dimensional space of Lie algebra cohomology in weight 2 (this follows from the fact that the space of 2-forms of weight 2 is 28=8!/(2!6!) while the image of d from 1-forms of weight 2 is 4-dimensional), this directly implies that the Lie algebra cohomology in degree 2 and weight greater than 2 must be 0.
